@@ -8,4 +8,4 @@ I built and evaluated several models including Linear Regression, Decision Tree,
 This project helped deepen my understanding of machine learning workflows, model selection, and practical implementation techniques.
 
 
-🔍 Note: For the best viewing experience of this notebook’s output and formatting, it is recommended to open the file using nbviewer.
+🔍 Note: For the best viewing experience of this notebook’s output and formatting, it is recommended to open the file using https://nbviewer.org/.
